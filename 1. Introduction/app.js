@@ -6,4 +6,4 @@ if (amount < 10) {
     console.log("large")
 }
 
-console.log(`Hey tt's my first node app!!`)
+console.log(`Hey it's my first node app!!`)
