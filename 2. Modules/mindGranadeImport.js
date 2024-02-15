@@ -1,0 +1,1 @@
+const sums = require('./mindGranade')
